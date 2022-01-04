@@ -35,6 +35,12 @@ https://www.ventoy.net/en/index.html
 Ventoy on GitHub:
 https://github.com/ventoy/Ventoy
 
+---
+
+**Comments about fork**
+
+This repo was forked from [here](https://github.com/mawigh/ventoyu). Thanks for create this repo.
+
 # Table of Contents
 - [Ventoy Updater](#ventoy-updater)
 - [Table of Contents](#table-of-contents)
@@ -71,6 +77,21 @@ Currently supported images:
 | Ubuntu (18.04, 20.04, 21.04) | https://ftp.halifax.rwth-aachen.de/ubuntu-releases/ |
 | Manjaro (XFCE, KDE) | https://manjaro.org/downloads/official/ |
 | Finnix 123 | https://www.finnix.org/releases/123/ |
+
+Coming soon supported images after fork:
+
+| Operating system | URL |
+| ---------------- | --- |
+| Acronis True Image 2021 | Propietary license |
+| Arco Linux B Plasma | https://fosstorrents.com/distributions/arcolinux |
+| Garuda Dr460nized | https://garudalinux.org/downloads.html |
+| Hiren's BOOT v1.0.2 | https://www.hirensbootcd.org/download |
+| HDD Regenerator | Propietary license |
+| Hiren's BOOT v15.2 | https://www.hirensbootcd.org/hbcd-v152 |
+| Ubuntu Mate | https://ubuntu-mate.org/download/amd64 |
+| Windows 10 | https://www.microsoft.com/software-download/windows10ISO |
+| Windows 11 | https://www.microsoft.com/software-download/windows11 |
+| Windows 11 Compatible | Modified ISO for no TPM, no UEFI |
 
 With the option `add-url` you have the possibility to add new ISO sources.
 
