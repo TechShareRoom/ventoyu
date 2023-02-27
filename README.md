@@ -84,10 +84,14 @@ Coming soon supported images after fork:
 | ---------------- | --- |
 | Acronis True Image 2021 | Propietary license |
 | Arco Linux B Plasma | https://fosstorrents.com/distributions/arcolinux |
-| Garuda Dr460nized | https://garudalinux.org/downloads.html |
+| Garuda KDE Dr460nized | https://garudalinux.org/downloads.html |
+| Garuda Mate | https://garudalinux.org/downloads.html |
 | Hiren's BOOT v1.0.2 | https://www.hirensbootcd.org/download |
 | HDD Regenerator | Propietary license |
 | Hiren's BOOT v15.2 | https://www.hirensbootcd.org/hbcd-v152 |
+| Redo Rescue | http://redorescue.com/#download |
+| Rescuezilla | https://rescuezilla.com/download |
+| Super Grub2 Disk | https://www.supergrubdisk.org/super-grub2-disk |
 | Ubuntu Mate | https://ubuntu-mate.org/download/amd64 |
 | Windows 10 | https://www.microsoft.com/software-download/windows10ISO |
 | Windows 11 | https://www.microsoft.com/software-download/windows11 |
